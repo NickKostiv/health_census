@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "name": "Diabetes",
+      "symptoms": ["Increased thirst","Frequent urination","Extreme hunger","Unexplained weight loss","Fatigue","Blurred vision"],
+      "prevention": ["Maintain a healthy diet","Exercise regularly","Monitor blood sugar levels","Maintain healthy weight","Avoid smoking"],
+      "treatment": ["Insulin therapy","Oral diabetes medications","Regular blood sugar monitoring","Healthy diet and exercise"],
+      "imagesrc": "diabetes.jpg"
+    },
+    {
+      "name": "Thyroid",
+      "symptoms": ["Fatigue","Weight changes","Mood swings","Swelling in the neck","Hair loss","Cold or heat intolerance"],
+      "prevention": ["Maintain iodine intake","Regular check-ups","Manage stress","Avoid smoking","Eat balanced diet"],
+      "treatment": ["Thyroid hormone replacement therapy","Regular monitoring of hormone levels","Surgery in case of nodules or cancer"],
+      "imagesrc": "thyroid.jpg"
+    },
+    {
+      "name": "High Blood Pressure",
+      "symptoms": ["Often none (silent condition)","Headaches","Shortness of breath","Nosebleeds","Dizziness"],
+      "prevention": ["Eat low-salt diet","Exercise regularly","Maintain healthy weight","Avoid alcohol and tobacco","Manage stress"],
+      "treatment": ["Lifestyle modifications","Antihypertensive medications","Regular blood pressure monitoring","Limit alcohol intake"],
+      "imagesrc": "blood_pressure.jpg"
+    }
+  ]
+}
